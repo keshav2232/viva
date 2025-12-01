@@ -1,0 +1,4 @@
+Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent: [400 Bad Request] Request contains an invalid argument.
+Response: {"status":400,"statusText":"Bad Request"}
+Chat Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Response: {}
